@@ -1,1 +1,16 @@
 # CS-300
+
+## What was the problem you were solving in the projects for this course?
+In the projects for this course, the primary problem I was addressing was how to efficiently store, organize, and retrieve information related to course offerings and their prerequisites. The challenge involved ensuring that the data was structured in a way that allowed for quick access and manipulation, while also handling cases where data might be incomplete or improperly formatted. Additionally, the project required implementing functionality to allow users to search for courses and view the relevant information, including prerequisites.
+
+## How did you approach the problem? Consider why data structures are important to understand.
+I approached the problem by first analyzing the requirements and identifying the most suitable data structures for the tasks at hand. Understanding data structures is crucial because they determine how data is stored, accessed, and modified, which directly impacts the efficiency and performance of the software. For instance, I used vectors to store course data sequentially, hash tables for quick lookup operations, and binary search trees to maintain sorted order and allow for efficient searches. Each data structure was chosen based on its strengths in handling specific operations required by the project.
+
+## How did you overcome any roadblocks you encountered while going through the activities or project?
+When I encountered roadblocks, such as errors in data processing or unexpected behavior in the search algorithms, I took a methodical approach to troubleshooting. This included breaking down the problem into smaller parts, using debugging tools to track the flow of data, and consulting additional resources or documentation to clarify my understanding. I also found it helpful to step back and reconsider my choice of data structures when things weren’t working as expected, which sometimes led to better, more efficient solutions.
+
+## How has your work on this project expanded your approach to designing software and developing programs?
+Working on this project has significantly broadened my perspective on software design. I now place a greater emphasis on choosing the right data structures from the outset, as they form the backbone of any application’s functionality. Additionally, I’ve learned the importance of planning and structuring code in a way that anticipates future modifications, which is essential for creating scalable and adaptable software. This experience has reinforced the value of a well-thought-out design phase before jumping into coding.
+
+## How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+Through this project, I have improved my ability to write code that is not only functional but also maintainable and readable. I’ve learned to prioritize clear naming conventions, modular code, and comprehensive documentation. This makes the codebase easier to understand and modify, both for myself and for others who might work on it in the future. Additionally, I’ve gained a deeper appreciation for writing adaptable code that can easily accommodate changes in requirements, which is a critical skill in real-world software development.
